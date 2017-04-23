@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppUpdate</string>
+    <string name="update_download_start">开始更新</string>
+    <string name="update_download_progressing">正在更新</string>
+    <string name="update_download_finish">更新结束</string>
+    <string name="update_download_failed">更新失败</string>
+</resources>
